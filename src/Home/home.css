@@ -1,0 +1,92 @@
+.img-1{
+    background-color: nono;
+    padding-top:60px;
+    padding-right: 60px;
+    padding-left: 60px;
+  
+  }
+  .img-2 {
+    background-color: nono;
+    padding-top:20px;
+    padding-right: 60px;
+    padding-left: 60px;
+  
+  }
+    .padding {
+    border: 1px solid black;
+    background-color: nono;
+    padding-top:20px;
+    padding-right: 20px;
+    padding-left: 20px;
+  
+  }
+  
+  
+  .div-home{
+    font-family:georgia,garamond,serif;
+   font-size: 23px;
+   text-align: left;
+  }
+  
+  .div-home p{
+    line-height: 130%;
+    color :#2a5b83
+  }
+  
+  .div-home h1{
+    text-align: center;
+    color :#0174d3
+  }
+  
+  .div-home h3{
+    color :#2196f3;
+  }
+  
+  
+  .brand {
+    padding: 10px;
+  }
+  
+  
+  
+  
+  
+  .pure-u{display:inline-block;
+    zoom:1;
+    *display:inline;
+    letter-spacing:normal;
+    word-spacing:normal;
+    vertical-align:top;
+    text-rendering:auto}
+    .pure-u-1,.pure-u-1-2{
+      display:inline-block;
+      zoom:1;
+      *display:inline;
+      letter-spacing:normal;
+      word-spacing:normal;
+      vertical-align:top;text-rendering:auto}
+      .pure-u-1{display:block}
+      .pure-u-1-2{width:50%}
+      .pure-g-r{letter-spacing:-.31em;
+      *letter-spacing:normal;*word-spacing:-.43em}
+      .opera-only :-o-prefocus,.pure-g-r{word-spacing:-.43em}
+      .pure-g-r img{max-width:100%}
+      @media (min-width:980px)
+      {.pure-visible-phone{display:none}.pure-visible-tablet{display:none}
+      .pure-hidden-desktop{display:none}}
+      @media (max-width:480px){.pure-g-r>[class ^="pure-u"]
+        {width:100%}}
+      @media (max-width:767px){.pure-g-r>[class ^="pure-u"]{width:100%}
+        .pure-hidden-phone{display:none}
+        .pure-visible-desktop{display:none}}
+      @media (min-width:768px) and (max-width:979px)
+        {.pure-hidden-tablet{display:none}.pure-visible-desktop{display:none}}
+  
+  
+  
+  
+  #main-footer {
+    text-align: center;
+    font-size: 17px;
+    background-color: rgb(236, 236, 236);
+  }
